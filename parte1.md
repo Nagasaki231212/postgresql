@@ -23,11 +23,11 @@ SELECT * FROM empleados;
 ## TIPOS DE DATOS:
 
 *Los Tipos de datos son* :
- +INTEGER: es para numeros enteros 
- +VARCHAR: para texto
- +DATE: para fechas
- +DECIMAL: para numeros decimales
- +BIGINT : numero entero mas grande
+- INTEGER: es para numeros enteros 
+- VARCHAR: para texto
+- DATE: para fechas
+- DECIMAL: para numeros decimales
+- BIGINT : numero entero mas grande
 
 ## CLASE INSERT INTO:
 
