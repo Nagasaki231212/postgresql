@@ -18,7 +18,7 @@ puesto VARCHAR (45)
 
 *- Usamos SELECT * FROM para consultar la informacion de la tabla que hemos creado:
 
-SELECT * FROM empleados;
+SELECT * FROM empleados
 
 ## TIPOS DE DATOS:
 
@@ -32,8 +32,8 @@ SELECT * FROM empleados;
 ## CLASE INSERT INTO:
 
 *- Para poder insertar datos en una tabla usamos este Query:
-	
-INSERT INTO empleado; 
+
+INSERT INTO empleado
 
 *- Pero aqui esta el ejemplo completo:
 
